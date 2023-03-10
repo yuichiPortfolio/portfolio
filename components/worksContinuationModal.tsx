@@ -50,7 +50,7 @@ const WorksContinuationModal = () => {
             day」などがあるが、「継続」が「力」になると思っているので直訳の「Continuation
             is Power」から採用した。
             <br />
-            サイトの作成にはNext.js + Next-UIを使用。
+            サイトの作成にはNext.js + Next-UIを使用。デプロイはVercel。
             <br />
             タイトル画像はUnsplashから拝借。Unsplashの
             <Link
