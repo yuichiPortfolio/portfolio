@@ -69,8 +69,12 @@ const WorksContinuationModal = () => {
         </Modal.Body>
         <Modal.Footer>
           <Button auto onPress={() => setVisible(false)}>
-            <Link color={'text'} href={'#'} target={'_blank'}>
-              GitHub
+            <Link
+              color={'text'}
+              href={'https://github.com/yuichiPortfolio/portfolio'}
+              target={'_blank'}
+            >
+              View code on GitHub
             </Link>
           </Button>
         </Modal.Footer>
